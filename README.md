@@ -21,3 +21,4 @@ The site is published to GitHub Pages at https://justbloomteamco2.github.io/eva/
 - Both forms open a "Coming Soon" dialog instead of submitting data.
 - Portfolio, testimonials, metrics, and the Instagram preview use sample content.
 - The 3D service-card accent loads when approached on desktop and is omitted on mobile.
+- React render failures show a recovery screen with refresh and contact options.
